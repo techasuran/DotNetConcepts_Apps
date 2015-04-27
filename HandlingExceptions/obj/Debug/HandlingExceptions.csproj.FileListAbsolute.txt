@@ -1,0 +1,6 @@
+G:\1Coding\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+G:\1Coding\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+G:\1Coding\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+G:\1Coding\HandlingExceptions\obj\Debug\HandlingExceptions.csprojResolveAssemblyReference.cache
+G:\1Coding\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+G:\1Coding\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

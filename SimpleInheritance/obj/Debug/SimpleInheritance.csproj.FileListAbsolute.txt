@@ -1,0 +1,5 @@
+G:\Git_Techasuran\DotNetConcepts_Apps\SimpleInheritance\bin\Debug\SimpleInheritance.exe.config
+G:\Git_Techasuran\DotNetConcepts_Apps\SimpleInheritance\bin\Debug\SimpleInheritance.exe
+G:\Git_Techasuran\DotNetConcepts_Apps\SimpleInheritance\bin\Debug\SimpleInheritance.pdb
+G:\Git_Techasuran\DotNetConcepts_Apps\SimpleInheritance\obj\Debug\SimpleInheritance.exe
+G:\Git_Techasuran\DotNetConcepts_Apps\SimpleInheritance\obj\Debug\SimpleInheritance.pdb
